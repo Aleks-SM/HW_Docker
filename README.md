@@ -7,4 +7,4 @@
 ```docker run -d -p 8000:800 my_django:v2```
 
 ### Проверка в браузере
-[Click](http://localhost/api/v1/)
+[Click](http://localhost:8000/api/v1/)
